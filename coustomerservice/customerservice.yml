@@ -1,1 +1,5 @@
-
+applicationconfigutation:
+    host: http://localhost
+    password: abcd
+    port: 8082
+    username: sa
